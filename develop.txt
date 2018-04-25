@@ -1,0 +1,7 @@
+update from news
+update from promostions
+
+fix from promotion after pull from develop
+
+
+release fixes
